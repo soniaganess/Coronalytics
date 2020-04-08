@@ -14,7 +14,7 @@ A guide for developers and other technical roles to join and/or contribute to th
 # Contact Information
 ## Team Leads
 
-# Additional Links
+# Links
 See our [Read Me](https://github.com/COVID-19-electronic-health-system/Corona-tracker/blob/master/README.md) and [Contributing guidelines](https://github.com/COVID-19-electronic-health-system/Corona-tracker/blob/master/CONTRIBUTING.md)
 
 # Contributing to CoronaTracker (General)
