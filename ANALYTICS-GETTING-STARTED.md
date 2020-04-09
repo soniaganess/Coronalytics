@@ -63,10 +63,10 @@ The typical agenda is:
 # Getting Started on Analytics
 ## Getting the Repo
 ### Terminology
-### Best Practices
 ### Forking the Repo
 ### Updating a Forked Repo
 ### Helpful Resources
+## Best Practices
 
 # FAQs
 
