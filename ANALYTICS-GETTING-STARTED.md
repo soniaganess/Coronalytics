@@ -1,26 +1,39 @@
 # Getting Started on Analytics
 A guide for developers and other technical roles to join and/or contribute to the CoronaTracker Analytics team 
 
-# How To Get Setup
+# Table of Contents
 
-# FAQs
+<!-- TOC -->
 
-# Style Guide
 
-# Learn More
-## PyTorch
-## Openmined
+- [From Our Contributing Guidelines](#from-our-contributing-guidelines)
+  - [How Can I Contribute?](#how-can-i-contribute)
+  - [Background](#background)
+  - [Values](#values)
+  - [Townhalls](#townhalls)
+- [Getting Started on Analytics](#getting-started-on-analytics)
+  - [Getting the Repo](#getting-the-repo)
+    - [Terminology](#terminology)
+    - [Best Practices](#best-practices)
+    - [Forking the Repo](#forking-the-repo)
+    - [Updating a Forked Repo](#updating-a-forked-repo)
+    - [Helpful Resources](#helpful-resources)
+- [FAQs](#faqs)
+- [Style Guide](#style-guide)
+- [Contact Information](#contact-information)
+- [CoronaTracker Links](#links)
+- [Learn More](#learn-more)
+    - [Openmined](#openmined)
+    - [PyTorch](#pytorch)
 
-# Contact Information
-## Team Leads
+<!-- /TOC -->
 
-# Links
-See our [Read Me](https://github.com/COVID-19-electronic-health-system/Corona-tracker/blob/master/README.md) and [Contributing guidelines](https://github.com/COVID-19-electronic-health-system/Corona-tracker/blob/master/CONTRIBUTING.md)
 
-# Contributing to CoronaTracker (General)
+# From Our Contributing Guidelines
+
 ## How Can I Contribute?
 
-Jump on our [Discord](https://discord.gg/pPERUuv) and choose the team that interests you the most. Reach out to the team lead and introduce yourself! We are happy to talk to you.
+Join our [Discord](https://discord.gg/pPERUuv) and choose the team that interests you the most. Reach out to the team lead and introduce yourself! We are happy to talk to you.
 
 
 ## Background
@@ -45,3 +58,34 @@ The typical agenda is:
 2) Discuss roadmap.
 3) Discuss deadline.
 4) Explain things that need to be done to hit current goal.
+
+  
+# Getting Started on Analytics
+## Getting the Repo
+### Terminology
+### Best Practices
+### Forking the Repo
+### Updating a Forked Repo
+### Helpful Resources
+
+# FAQs
+
+# Style Guide
+
+# Contact Information
+## Team Lead
+Nick Giangreco
+- [Github](https://github.com/ngiangre)
+- [Discord]
+
+
+# CoronaTracker Links
+- [Read Me](https://github.com/COVID-19-electronic-health-system/Corona-tracker/blob/master/README.md) 
+- [Contributing guidelines](https://github.com/COVID-19-electronic-health-system/Corona-tracker/blob/master/CONTRIBUTING.md)
+
+# Learn More
+## PyTorch
+## Openmined
+
+
+
