@@ -21,7 +21,7 @@ A guide for developers and other technical roles to join and/or contribute to th
 - [FAQs](#faqs)
 - [Style Guide](#style-guide)
 - [Contact Information](#contact-information)
-- [CoronaTracker Links](#links)
+- [CoronaTracker Links](#coronatrackerp-links)
 - [Learn More](#learn-more)
     - [Openmined](#openmined)
     - [PyTorch](#pytorch)
@@ -76,12 +76,12 @@ The typical agenda is:
 ## Team Lead
 Nick Giangreco
 - [Github](https://github.com/ngiangre)
-- [Discord]
+- Add Discord handle here
 
 
 # CoronaTracker Links
-- [Read Me](https://github.com/COVID-19-electronic-health-system/Corona-tracker/blob/master/README.md) 
-- [Contributing guidelines](https://github.com/COVID-19-electronic-health-system/Corona-tracker/blob/master/CONTRIBUTING.md)
+- [README](https://github.com/COVID-19-electronic-health-system/Corona-tracker/blob/master/README.md) 
+- [Contributing Guidelines](https://github.com/COVID-19-electronic-health-system/Corona-tracker/blob/master/CONTRIBUTING.md)
 
 # Learn More
 ## PyTorch
