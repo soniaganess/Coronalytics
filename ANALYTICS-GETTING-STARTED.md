@@ -21,7 +21,7 @@ A guide for developers and other technical roles to join and/or contribute to th
 - [FAQs](#faqs)
 - [Style Guide](#style-guide)
 - [Contact Information](#contact-information)
-- [CoronaTracker Links](#coronatrackerp-links)
+- [CoronaTracker Links](#coronatracker-links)
 - [Learn More](#learn-more)
     - [Openmined](#openmined)
     - [PyTorch](#pytorch)
