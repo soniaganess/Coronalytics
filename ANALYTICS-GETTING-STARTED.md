@@ -11,7 +11,7 @@ A guide for developers and other technical roles to join and/or contribute to th
   - [Background](#background)
   - [Values](#values)
   - [Townhalls](#townhalls)
-- [Getting Started on Analytics](#getting-started-on-analytics)
+- [How Do I Get Setup?](#how-do-i-get-setup)
   - [Getting the Repo](#getting-the-repo)
     - [Terminology](#terminology)
     - [Forking the Repo](#forking-the-repo)
@@ -33,7 +33,7 @@ A guide for developers and other technical roles to join and/or contribute to th
 
 ## How Can I Contribute?
 
-Join our [Discord](https://discord.gg/pPERUuv) and choose the team that interests you the most. Reach out to the team lead and introduce yourself! We are happy to talk to you.
+Join our [Discord](https://discord.gg/pPERUuv) and choose the Analytics team. Reach out to the team lead **Insert Nick's Discord handle here** and introduce yourself! We are happy to talk to you.
 
 
 ## Background
@@ -60,7 +60,7 @@ The typical agenda is:
 4) Explain things that need to be done to hit current goal.
 
   
-# Getting Started on Analytics
+# How Do I Get Setup?
 ## Getting the Repo
 ### Terminology
 ### Forking the Repo
@@ -73,10 +73,10 @@ The typical agenda is:
 # Style Guide
 
 # Contact Information
-## Team Lead
+## Team Leads
 Nick Giangreco
 - [Github](https://github.com/ngiangre)
-- Add Discord handle here
+- **Insert Nick's Discord handle here**
 
 
 # CoronaTracker Links
